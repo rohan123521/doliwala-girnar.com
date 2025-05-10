@@ -1,0 +1,41 @@
+table{
+    background-color: yellow;
+    font-size: x-large;
+    text-align: center;
+    text-transform: capitalize;
+
+}
+p{
+    text-transform: capitalize;
+    font-size: xx-large;
+    text-align: left;
+}
+ul{
+    text-align: left;
+    font-size: x-large;
+    text-transform: capitalize;
+}
+#jainp{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+#jaingo{
+    color: black;
+    text-align: center;
+}
+#jain{
+    background-color: yellow;
+    border: solid black;
+}
+marquee{
+    text-transform: capitalize;
+    background-color: yellow;
+    border: solid black;
+}
+img{
+    height: 600px;
+    width: 1900px;
+}
+body{
+    text-transform: capitalize;
+}

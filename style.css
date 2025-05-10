@@ -1,0 +1,66 @@
+h2{
+    text-transform: capitalize;
+    text-align: left;
+    
+}
+table{
+    background-color: yellow;
+    font-size: x-large;
+    text-align: center;
+    text-transform: capitalize;
+
+}
+
+p{
+    text-transform: capitalize;
+    font-size: xx-large;
+    text-align: left;
+}
+ul{
+    text-align: left;
+    font-size: x-large;
+    text-transform: capitalize;
+}
+h3{
+    text-align: left;
+}
+marquee{
+    text-transform: capitalize;
+    background-color: yellow;
+}
+
+#Email{
+    text-transform: lowercase;
+    text-align: center;
+}
+#jain{
+    background-color: yellow;
+}
+#list{
+    text-transform: capitalize;
+}
+#dat{
+    background-color: yellow;
+}
+#jainp{
+    background-color: aqua;
+}
+#jaingo{
+    background-color: aqua;
+}
+#datt{
+    background-color: aqua;
+}
+#contact{
+    background-color: yellow;
+    text-align: left;
+    text-transform: capitalize;
+    font-size: x-large;
+}
+#if{
+    text-align: center;
+}
+
+
+
+

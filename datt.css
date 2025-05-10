@@ -1,0 +1,40 @@
+#datt{
+    color: black;
+    text-align: center;
+}
+p{
+    text-transform: capitalize;
+    font-size: xx-large;
+    text-align: left;
+}
+table{
+    background-color: yellow;
+    font-size: x-large;
+    text-align: center;
+    text-transform: capitalize;
+
+}
+ul{
+    text-align: left;
+    font-size: x-large;
+    text-transform: capitalize;
+
+}
+#dat{
+    background-color: yellow;
+    border: solid black;
+}
+marquee{
+    text-transform: capitalize;
+    background-color: yellow;
+    border: solid black;
+}
+#datta{
+    text-align: center;
+}
+body{
+    text-transform: capitalize;
+}
+#note{
+    text-align: left;
+}
